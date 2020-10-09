@@ -33,7 +33,7 @@ _ **机械臂自主运动控制研究**
 
 _ **机械臂高动态抛接物体运动控制**
 
-![catch object in flight](/catch object in flight.mp4)
+![img](/zdk_photo.jpg)
 
 _ **机械臂凹形障碍物静/动态避障研究**
 
