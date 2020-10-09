@@ -31,11 +31,11 @@ _ 双离合变速器控制
 
 _ **机械臂自主运动控制研究**
 
-[![IMAGE ALT TEXT](/grab.jpg)](https://youtu.be/3whrae_RwMM "CameraMaster")
+[![Autonomous motion control](/grab.jpg)](https://youtu.be/h7I7V_XPnzQ "机械臂自主抓取")
 
 _ **机械臂高动态抛接物体运动控制**
 
-[![IMAGE ALT TEXT](/catchobjectinflight.jpg)](https://youtu.be/h7I7V_XPnzQ "CameraMaster")
+[![Catch object in flight](/catchobjectinflight.jpg)](https://youtu.be/3whrae_RwMM "高动态抛接物体")
 
 _ **机械臂凹形障碍物静/动态避障研究**
 
