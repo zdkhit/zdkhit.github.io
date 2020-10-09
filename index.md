@@ -30,11 +30,12 @@ _ 双离合变速器控制
 #### 中科院深圳先进技术研究院-深圳优必选科技(2019.07 - 至今)
 
 _ **机械臂自主运动控制研究**
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://youtu.be/3whrae_RwMM "CameraMaster")
+
+[![IMAGE ALT TEXT](/grab.jpg)](https://youtu.be/3whrae_RwMM "CameraMaster")
 
 _ **机械臂高动态抛接物体运动控制**
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://youtu.be/h7I7V_XPnzQ "CameraMaster")
+[![IMAGE ALT TEXT](/catchobjectinflight.jpg)](https://youtu.be/h7I7V_XPnzQ "CameraMaster")
 
 _ **机械臂凹形障碍物静/动态避障研究**
 
