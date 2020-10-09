@@ -62,4 +62,8 @@
 #### 哈尔滨工业大学攻读硕士研究生(2011.09 - 2013.07)
 
 
-
+### 发表的学术论文
+1. A Dynamical System Approach to Real-time Three-Dimensional Concave Obstacle Avoidance. Dake Zheng; Xinyu Wu; Yizhang Liu; Jianxin Pang
+2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM). [pdf](https://sci-hub.do/10.1109/aim43001.2020.9158904)
+2. Adaptive Backstepping-Flatness Control Based on an Adaptive State Observer for a Torque Tracking Electrohydraulic System. Dake Zheng; Hongguang Xu.
+IEEE/ASME Transactions on Mechatronics, Year: 2016 | Volume: 21, Issue: 5. [pdf](https://sci-hub.do/10.1109/tmech.2015.2513205)
