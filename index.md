@@ -31,6 +31,8 @@
 
 - **机械臂自主运动控制研究**
 
+[![Grasping using vision_perception](/visiongrasping.jpg)](https://youtu.be/aHA84B1uMOU "视觉检测机械臂自主抓取")
+
 [![Autonomous motion control](/grab.jpg)](https://youtu.be/h7I7V_XPnzQ "机械臂自主抓取")
 
 - **机械臂高动态抛接物体运动控制**
