@@ -31,6 +31,12 @@
 
 - **机械臂自主运动控制研究**
 
+[![Pouring water using dual-arm](/pour_water.jpg)](https://youtu.be/n8aR91GRpj8 "视觉检测双机械臂自主倒水操作")
+
+[![Grasping basket using vision perception](/grasp_basket.jpg)](https://youtu.be/WgcT9i0oVow "视觉检测机械臂抓取篮子")
+
+[![Open refrigerator door and grasp something using vision perception](/open_door.jpg)](https://youtu.be/sRMeWll345E "视觉检测开冰箱取东西")
+
 [![Grasping using vision_perception](/visiongrasping.jpg)](https://youtu.be/aHA84B1uMOU "视觉检测机械臂自主抓取")
 
 [![Autonomous motion control](/grab.jpg)](https://youtu.be/h7I7V_XPnzQ "机械臂自主抓取")
