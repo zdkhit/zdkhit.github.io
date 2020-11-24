@@ -49,7 +49,7 @@
 
 - **机械臂具有工作空间约束的静/动态避障研究**
 
-[![Obstacle avoidance while perform tasks](/obstacle_avoidance_perform_tasks.JPG)](https://youtu.be/B7Z3_8YTsTk "机械臂避障仿真测试")
+[![Obstacle avoidance while perform tasks](/obstacle_aoidance_perform_tasks.JPG)](https://youtu.be/B7Z3_8YTsTk "机械臂避障仿真测试")
 
 [![Obstacle avoidance test](/obstacle_avoidance_test.JPG)](https://youtu.be/B7Z3_8YTsTk "机械臂避障仿真测试")
 
