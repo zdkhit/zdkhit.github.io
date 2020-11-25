@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>郑大可</h1>
-      <p><b>出生日期:1989.05.06</b></p>
+      <p><b>出生日期:1989.05</b></p>
       <p><b>学历:工学博士</b></p>
       <p><b>毕业院校:哈尔滨工业大学</b></p>
       <p><b>工作单位:中科院深圳先进技术研究院-深圳优必选科技联合培养博士后/高级运动控制算法工程师</b></p>
@@ -49,7 +49,7 @@
 
 - **机械臂具有工作空间约束的静/动态避障研究**
 
-[![Obstacle avoidance while perform tasks](/obstacle_aoidance_perform_tasks.JPG)](https://youtu.be/B7Z3_8YTsTk "机械臂避障仿真测试")
+[![Obstacle avoidance while perform tasks](/obstacle_aoidance_perform_tasks.JPG)](https://youtu.be/gDp50GAsaoM "机械臂避障及执行任务实验测试")
 
 [![Obstacle avoidance test](/obstacle_avoidance_test.JPG)](https://youtu.be/B7Z3_8YTsTk "机械臂避障仿真测试")
 
