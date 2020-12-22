@@ -31,7 +31,7 @@
 
 - **机械臂自主运动控制研究**
 
-[![Pouring water using dual-arm](/pour_water.JPG)](https://youtu.be/n8aR91GRpj8 "视觉检测双机械臂自主倒水操作")
+[![Pouring water using dual-arm](/pour_water_demo_X.JPG)](https://youtu.be/u0YGtlILWTQ "视觉检测双机械臂自主倒水操作")
 
 [![Grasping basket using vision perception](/grasp_basket.JPG)](https://youtu.be/WgcT9i0oVow "视觉检测机械臂抓取篮子")
 
@@ -49,7 +49,7 @@
 
 - **机械臂具有工作空间约束的静/动态避障研究**
 
-[![Obstacle avoidance while perform tasks](/obstacle_aoidance_perform_tasks.JPG)](https://youtu.be/gDp50GAsaoM "机械臂避障及执行任务实验测试")
+[![Obstacle avoidance while perform tasks](/obstacle_avoidance_demo_X.JPG)](https://youtu.be/B7C99lVMv7o "机械臂避障及执行任务实验测试")
 
 [![Obstacle avoidance test](/obstacle_avoidance_test.JPG)](https://youtu.be/B7Z3_8YTsTk "机械臂避障仿真测试")
 
