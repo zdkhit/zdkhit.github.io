@@ -37,7 +37,7 @@
 
 [![Open refrigerator door and grasp something using vision perception](/open_door.JPG)](https://youtu.be/sRMeWll345E "视觉检测开冰箱取东西")
 
-[![Grasping using vision_perception](/visiongrasping.jpg)](https://youtu.be/aHA84B1uMOU "视觉检测机械臂自主抓取")
+[![Grasping using vision_perception](/visiongrasping.jpg)](https://youtu.be/MEsZtPO5USc "视觉检测机械臂自主抓取")
 
 [![Autonomous motion control](/grab.jpg)](https://youtu.be/h7I7V_XPnzQ "机械臂自主抓取")
 
